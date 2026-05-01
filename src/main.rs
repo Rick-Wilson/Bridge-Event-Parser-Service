@@ -70,6 +70,12 @@ async fn main() {
             "https://www.bridge-classroom.org"
                 .parse::<HeaderValue>()
                 .unwrap(),
+            "https://game-analysis.bridge-classroom.com"
+                .parse::<HeaderValue>()
+                .unwrap(),
+            "https://game-analysis.bridge-classroom.org"
+                .parse::<HeaderValue>()
+                .unwrap(),
             "https://bridge-craftwork.com"
                 .parse::<HeaderValue>()
                 .unwrap(),
